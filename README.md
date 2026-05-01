@@ -1,8 +1,7 @@
 # Implantacion Sistemas Operativos - Ruben
 
-**Modulo:** 0369 - Implantacion de Sistemas Operativos
-**Ciclo:** ASIR - 1 Curso 2024/2025
-**Alumno:** Ruben
+ Implantacion de Sistemas Operativos
+
 
 ## Descripcion
 
@@ -17,7 +16,7 @@ Incluye gestion de usuarios, grupos, permisos y servicio SSH.
 
 ## Contenido del repositorio
 
-- Implantacion_Sistemas_Operativos_Ruben.docx - Documento completo del proyecto
+- Implantacion_Sistemas_Operativos.pdf - Documento completo del proyecto
 - capturas/ - Capturas de pantalla de todo el proceso
 
 ## Resumen
@@ -29,4 +28,3 @@ Incluye gestion de usuarios, grupos, permisos y servicio SSH.
 | Creacion de usuarios y grupos | Hecho |
 | Carpeta compartida con permisos | Hecho |
 | Servicio SSH activo | Hecho |
-| Samba | Planificado |
