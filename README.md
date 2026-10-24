@@ -32,9 +32,9 @@ Servidor montado con **Ubuntu Server 24.04 LTS** en **VirtualBox**, con gestión
 | Comando | Para qué |
 |---|---|
 | `apt update && apt upgrade` | Actualizar el sistema |
-| `groupadd` / `useradd` | Crear grupos y usuarios |
+| `groupadd` / `useradd` / `passwd` | Crear grupos y usuarios |
 | `cat /etc/group` | Comprobar los grupos y sus miembros |
-| `chown` / `chmod` | Permisos de la carpeta compartida |
+| `chgrp` / `chmod` | Permisos de la carpeta compartida |
 | `hostnamectl` | Configurar el nombre del equipo |
 | `timedatectl` | Zona horaria (Europe/Madrid) |
 | `ip a` | Ver la configuración de red |
